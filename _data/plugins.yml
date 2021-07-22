@@ -3,7 +3,7 @@ css:
   - "/assets/plugins/bootstrap/bootstrap.min.css"
   - "/assets/plugins/themify-icons/themify-icons.css"
   - "/assets/plugins/slick/slick.css"
-
+  - "https://calendly.com/assets/external/widget.css"
 
 ################ JS Plugins ######################
 js:
@@ -11,3 +11,4 @@ js:
   - "/assets/plugins/bootstrap/bootstrap.min.js"
   - "/assets/plugins/shuffle/shuffle.min.js"
   - "/assets/plugins/slick/slick.min.js"
+  - "https://calendly.com/assets/external/widget.js"

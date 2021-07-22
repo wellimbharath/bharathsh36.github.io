@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: wellimbharath
 logo: 
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: bharath
+description: I'm a coder for fun.
+email: bharathsh36@gmail.com
+phone: +91 86600 83387
+address: Nandini Layout, Bangalore, India - 560096
+copyright: Made using [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,7 +38,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi!<br>I’m  Bharath  <br> I'm a coder for fun. 
 
 social:
 - {icon: "ti-facebook", link: "#"}
@@ -52,7 +52,7 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Started young, learning the most as I go along. I code projects and read books most of my time. I occasionally answer question in stackoverflow.            
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -77,28 +77,18 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-1.png"
-    designation : "Project Manager"
-    
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-2.png"
-    designation : "Web Developer"
-    
-  - title : "John Doe"
-    image : "assets/images/team/member-3.png"
-    designation : "Designer"
-
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: Api development, color: '#fdb157', value: '95%'}
+- {name: AWS, color: '#bdecf6', value: '80%'}
+- {name: ML, color: '#fdb157', value: '80%'}
+
+- {name: Frontend, color: '#9473e6', value: '60%'}
+- {name: App development, color: '#bdecf6', value: '60%'}
 
 
 #-------------------------------
@@ -106,21 +96,18 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
-
+- {name: Backend Consultant, icon: 'icon-2.png', date: 'April 2020 - Present', organization: 'Neoscale'}
+- {name: Backend Consultant, icon: 'icon-2.png', date: 'December 2020 - Present', organization: 'Pichainlabs'}
+- {name: Fullstack Consultant, icon: 'icon-3.png', date: 'October 2020 - Present', organization: 'Flunkey'}
+- {name: Backend dev, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
+- {name: ML, icon: 'icon-3.png', date: 'May 2021 - June 2021', organization: 'Kutumba.ai'}
 
 #-------------------------------
 # Education Section
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
-
+- { name: Learner, date: '2000', organization: 'Open world'}
 
 #-------------------------------
 # Services Section
@@ -128,22 +115,10 @@ education:
 services-title: Services
 services:
 - {
-    name: UI Design,
+    name: Backend,
     icon: ti-palette,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
-  }
-- {
-    name: UX Design,
-    icon: ti-vector,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: true # Add true to select section
-  }
-- {
-    name: Interaction Design,
-    icon: ti-panel,
-    description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-    active: # Add true to select section
+    description: 'I write backend code for applications.',
+    active: true
   }
 
 
@@ -172,125 +147,91 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "UI/UX Design",
-    type : "design"
+    title : "App",
+    type : "frontend"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "Backend",
+    type : "backend"
   }
 - {
-    title : "ILLUSTRATION",
-    type : "illustration"
+    title : "ML",
+    type : "ml"
   }
 
 portfolio-items:
-  - image : "assets/images/portfolio/item-1.png"
+  - image : "assets/images/portfolio/pocketbits.png"
     url: "#"
     portfolio-type:
-     - type: "design"
-     - type: "illustration"
+     - type: "frontend"
+     - type: "backend"
       
-  - image : "assets/images/portfolio/item-2.png"
+  - image : "assets/images/portfolio/flunkey.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "frontend"
+      - type: "backend"
       
-  - image : "assets/images/portfolio/item-3.png"
+      
+  - image : "assets/images/portfolio/kutumba.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "ml"
       
-  - image : "assets/images/portfolio/item-6.png"
+  - image : "assets/images/portfolio/neoscale.png"
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "branding"
+      - type: "backend"
       
-  - image : "assets/images/portfolio/item-8.png"
+  - image : "assets/images/portfolio/pichainlabs.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
+      - type: "backend"
 
 #-------------------------------
 # Testimonials Section
 
 testimonial-items:
-  - name: "Jesica Gomez"
+  - name: "Sohail Merchant"
     image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Funder"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-    
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
+    designation : "CEO, Pocketbits"
+    content : "...."
 
 #-------------------------------
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-2.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-3.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-4.png"
-    url: "#"
-    
-  - logo: "assets/images/clients-logo/client-logo-5.png"
-    url: "#"
 
+  - logo: "assets/images/clients-logo/flunkey.svg"
+    url: "https://dashboard.flunkey.app"
+    
+  - logo: "assets/images/clients-logo/pocketbits.svg"
+    url: "https://pocketbits.in"
+    
+  - logo: "assets/images/clients-logo/neoscale.png"
+    url: "https://neoscale-io.webflow.io"
+    
+  - logo: "assets/images/clients-logo/pichainlabs.png"
+    url: "https://pichainlabs.com"
+    
+  - logo: "assets/images/clients-logo/kutumba.png"
+    url: "https://sthana.ai"
+
+  - logo: "assets/images/clients-logo/flunkey.svg"
+    url: "https://dashboard.flunkey.app"
+    
+  - logo: "assets/images/clients-logo/pocketbits.svg"
+    url: "https://pocketbits.in"
+    
+  - logo: "assets/images/clients-logo/neoscale.png"
+    url: "https://neoscale-io.webflow.io"
+    
+  - logo: "assets/images/clients-logo/pichainlabs.png"
+    url: "https://pichainlabs.com"
+    
 #-------------------------------
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: bharathsh36@gmail.com
