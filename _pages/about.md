@@ -29,7 +29,7 @@ I build applications that scale. I write clean, well-documented code 💻. I cod
 
 **Frontend**: Exploring Nuxt.js, but currently using react for frontend. 
 
-**DB 💽 **: For most of my coding life, I have experience working with Mysql, Postgres, and MongoDB. 
+**Data**: For most of my coding life, I have experience working with Mysql, Postgres, and MongoDB. 
 
 I have experieince setting up VMs, setup dns, setup api gateway to applications, have built custom plugins in lua for [Kong](https://konghq.com/).
 
