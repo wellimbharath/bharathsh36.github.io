@@ -190,7 +190,7 @@ portfolio-items:
       - type: "backend"
       
       
-  - image : "assets/images/portfolio/kutumba.png"
+  - image : "assets/images/portfolio/kutumba.jpeg"
     url: "#"
     portfolio-type:
       - type: "ml"
