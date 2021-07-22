@@ -60,15 +60,15 @@ blurb-btn-name: know more
 work-process:
   - title : "Research and Plan"
     icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Explore the problem statement, look for solutions, plan the development. I take sometime to explore and come up with something concrete."
     
   - title : "Design and Develop"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Share the plan with client, design the solution, start implementation and finish within the agreed deadline."
     
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Setup clean documentation for the work done, deliver the product to client and sit around for further processings. "
 
 
 # My Team Section
