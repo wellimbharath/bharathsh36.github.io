@@ -115,25 +115,25 @@ services:
     name: Cloud setup,
     icon: ti-linux,
     description: 'Setup proper Vpns, api gateways, metrics and load balances with Aws or GCP.',
-    active: true
+    active: false
   }
 - {
     name: ML,
     icon: ti-infinite,
     description: 'Build models, train and deploy, setup api endpoints for easy access.',
-    active: true
+    active: false
   }
 - {
     name: Blockchain,
     icon: ti-link,
     description: 'I can setup nodes and build apis across blockchain protocols and crypto currencies.',
-    active: true
+    active: false
   }
 - {
     name: Frontend,
     icon: ti-layout-accordion-list,
     description: 'I code the frontend end using tailwind and react. I do not comeup with UI design.',
-    active: true
+    active: false
   }
 
 
