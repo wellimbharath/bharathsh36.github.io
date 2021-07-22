@@ -15,4 +15,4 @@ Give a try yourself:
 
 [Jekyll Installation.](https://jekyllrb.com/docs/)
 
-This entire site is on top of jekyll, and this is a theme from [kross-jekyll](https://github.com/themefisher/kross-jekyll). Took only few ups to go up and running.
+This entire site is on top of jekyll, and this is a theme from [kross-jekyll](https://github.com/themefisher/kross-jekyll). Took only few hours to go up and running.
