@@ -41,18 +41,14 @@ hero:
   hero-title: Hi!<br>I’m  Bharath  <br> I'm a coder for fun. 
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
-
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/bharath-m-493a6b103/"}
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
 blurb:
-  Started young, learning the most as I go along. I code projects and read books most of my time. I occasionally answer question in stackoverflow.            
+  Young and learning the most as I go along. I code projects and read books most of my time. I occasionally answer question in stackoverflow.            
 
 blurb-btn-link: '/about'
 blurb-btn-name: know more
@@ -84,11 +80,12 @@ team:
 skills-title: Skills
 skills:
 - {name: Api development, color: '#fdb157', value: '95%'}
-- {name: AWS, color: '#bdecf6', value: '80%'}
-- {name: ML, color: '#fdb157', value: '80%'}
-
+- {name: "ML, DL and AI", color: '#fdb157', value: '80%'}
+- {name: Blockchain, color: '#bdecf6', value: '60%'}
 - {name: Frontend, color: '#9473e6', value: '60%'}
-- {name: App development, color: '#bdecf6', value: '60%'}
+- {name: 'AWS and GCP', color: '#bdecf6', value: '80%'}
+- {name: App development, color: '#bdecf6', value: '70%'}
+- {name: Devops, color: '#bdecf6', value: '50%'}
 
 
 #-------------------------------
@@ -96,18 +93,12 @@ skills:
 
 experience-title: Experience
 experience:
+- {name: Backend dev - Fulltime, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'April 2020 - Present', organization: 'Neoscale'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'December 2020 - Present', organization: 'Pichainlabs'}
 - {name: Fullstack Consultant, icon: 'icon-3.png', date: 'October 2020 - Present', organization: 'Flunkey'}
-- {name: Backend dev, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
 - {name: ML, icon: 'icon-3.png', date: 'May 2021 - June 2021', organization: 'Kutumba.ai'}
 
-#-------------------------------
-# Education Section
-
-education-title: Education
-education:
-- { name: Learner, date: '2000', organization: 'Open world'}
 
 #-------------------------------
 # Services Section
@@ -116,10 +107,36 @@ services-title: Services
 services:
 - {
     name: Backend,
-    icon: ti-palette,
-    description: 'I write backend code for applications.',
+    icon: ti-layout-list-post,
+    description: "Write scabale backend code for applications or client's business logic.",
     active: true
   }
+- {
+    name: Cloud setup,
+    icon: ti-linux,
+    description: 'Setup proper Vpns, api gateways, metrics and load balances with Aws or GCP.',
+    active: true
+  }
+- {
+    name: ML,
+    icon: ti-infinite,
+    description: 'Build models, train and deploy, setup api endpoints for easy access.',
+    active: true
+  }
+- {
+    name: Blockchain,
+    icon: ti-link,
+    description: 'I can setup nodes and build apis across blockchain protocols and crypto currencies.',
+    active: true
+  }
+- {
+    name: Frontend,
+    icon: ti-layout-accordion-list,
+    description: 'I code the frontend end using tailwind and react. I do not comeup with UI design.',
+    active: true
+  }
+
+
 
 
 
@@ -193,10 +210,10 @@ portfolio-items:
 # Testimonials Section
 
 testimonial-items:
-  - name: "Sohail Merchant"
-    image: "assets/images/testimonial/client-1.png"
-    designation : "CEO, Pocketbits"
-    content : "...."
+  # - name: "Sohail Merchant"
+  #   image: "assets/images/testimonial/client-1.png"
+  #   designation : "CEO, Pocketbits"
+  #   content : "...."
 
 #-------------------------------
 # Client Slider Section
