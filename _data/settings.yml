@@ -222,10 +222,7 @@ client-slider-items:
 
   - logo: "assets/images/clients-logo/flunkey.jpeg"
     url: "https://dashboard.flunkey.app"
-    
-  - logo: "assets/images/clients-logo/pocketbits.svg"
-    url: "https://pocketbits.in"
-    
+
   - logo: "assets/images/clients-logo/neoscale.png"
     url: "https://neoscale-io.webflow.io"
     
@@ -237,9 +234,6 @@ client-slider-items:
 
   - logo: "assets/images/clients-logo/flunkey.jpeg"
     url: "https://dashboard.flunkey.app"
-    
-  - logo: "assets/images/clients-logo/pocketbits.svg"
-    url: "https://pocketbits.in"
     
   - logo: "assets/images/clients-logo/neoscale.png"
     url: "https://neoscale-io.webflow.io"
