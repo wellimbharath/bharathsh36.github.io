@@ -220,7 +220,7 @@ testimonial-items:
 
 client-slider-items:
 
-  - logo: "assets/images/clients-logo/flunkey.svg"
+  - logo: "assets/images/clients-logo/flunkey.jpeg"
     url: "https://dashboard.flunkey.app"
     
   - logo: "assets/images/clients-logo/pocketbits.svg"
@@ -235,7 +235,7 @@ client-slider-items:
   - logo: "assets/images/clients-logo/kutumba.png"
     url: "https://sthana.ai"
 
-  - logo: "assets/images/clients-logo/flunkey.svg"
+  - logo: "assets/images/clients-logo/flunkey.jpeg"
     url: "https://dashboard.flunkey.app"
     
   - logo: "assets/images/clients-logo/pocketbits.svg"
