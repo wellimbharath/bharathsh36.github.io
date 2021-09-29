@@ -92,15 +92,15 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Backend dev - Fulltime, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
+- {name: Backend - Fulltime, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'April 2020 - Present', organization: 'Neoscale'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'December 2020 - Present', organization: 'Pichainlabs'}
 
 - {name: Fullstack Consultant, icon: 'icon-3.png', date: 'October 2020 - Present', organization: 'Flunkey'}
 - {name: Fullstack Consultant, icon: 'icon-3.png', date: 'May 2021 - June 2021', organization: 'Kutumba.ai'}
-- {name: Backend Consultant, icon: 'icon-4.png', date: 'September 2021 - Present', organization: 'Cloudsenz'}
+- {name: Backend Consultant, icon: 'icon-2.png', date: 'September 2021 - Present', organization: 'Cloudsenz'}
 
-- {name: Founder and Developer, icon: 'icon-5.png', date: 'August 2021 - Present', organization: 'Cryptonotifier'}
+- {name: Founder and Developer, icon: 'icon-1.png', date: 'August 2021 - Present', organization: 'Cryptonotifier'}
 
 #-------------------------------
 # Services Section
