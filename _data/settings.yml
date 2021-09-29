@@ -37,7 +37,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi!<br>I’m  Bharath  <br> I'm a developer for fun. 
+  hero-title: Hi!<br>I’m  Bharath  <br> I code for fun. 
 
 social:
 - {icon: "ti-linkedin", link: "https://www.linkedin.com/in/bharath-m-493a6b103/"}
@@ -78,13 +78,13 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Api development, color: '#fdb157', value: '95%'}
-- {name: "ML, DL and AI", color: '#fdb157', value: '80%'}
-- {name: Blockchain, color: '#bdecf6', value: '60%'}
-- {name: Frontend, color: '#9473e6', value: '60%'}
-- {name: 'AWS and GCP', color: '#bdecf6', value: '80%'}
+- {name: Backend, color: '#fdb157', value: '95%'}
+- {name: ML, DL and AI, color: '#fdb157', value: '80%'}
+- {name: Blockchain, color: '#bdecf6', value: '80%'}
+- {name: Frontend, color: '#9473e6', value: '70%'}
+- {name: AWS and GCP, color: '#bdecf6', value: '80%'}
 - {name: App development, color: '#bdecf6', value: '70%'}
-- {name: Devops, color: '#bdecf6', value: '50%'}
+- {name: Devops, color: '#bdecf6', value: '60%'}
 
 
 #-------------------------------
@@ -95,9 +95,12 @@ experience:
 - {name: Backend dev - Fulltime, icon: 'icon-1.png', date: 'Feb 2021 - Present', organization: 'Pocketbits'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'April 2020 - Present', organization: 'Neoscale'}
 - {name: Backend Consultant, icon: 'icon-2.png', date: 'December 2020 - Present', organization: 'Pichainlabs'}
-- {name: Fullstack Consultant, icon: 'icon-3.png', date: 'October 2020 - Present', organization: 'Flunkey'}
-- {name: ML, icon: 'icon-3.png', date: 'May 2021 - June 2021', organization: 'Kutumba.ai'}
 
+- {name: Fullstack Consultant, icon: 'icon-3.png', date: 'October 2020 - Present', organization: 'Flunkey'}
+- {name: Fullstack Consultant, icon: 'icon-3.png', date: 'May 2021 - June 2021', organization: 'Kutumba.ai'}
+- {name: Backend Consultant, icon: 'icon-4.png', date: 'September 2021 - Present', organization: 'Cloudsenz'}
+
+- {name: Founder and Developer, icon: 'icon-5.png', date: 'August 2021 - Present', organization: 'Cryptonotifier'}
 
 #-------------------------------
 # Services Section
