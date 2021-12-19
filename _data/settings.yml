@@ -11,7 +11,7 @@ address: Nandini Layout, Bangalore, India - 560096
 
 menu:
 - {name: About, link: '/about'}
-- {name: Blog, link: '/blog'}
+- {name: Blog, link: 'https://blog.wellimbharath.com'}
 - {name: Portfolio, link: '/portfolio'}
 - {name: Contact, link: '/contact'}
 
